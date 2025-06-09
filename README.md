@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lol-spades" alt="lol-spades" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/silent127_0_0_1" target="blank"><img src="https://img.shields.io/twitter/follow/silent127_0_0_1?logo=twitter&style=for-the-badge" alt="lol-spades" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LOL_SPADES420" target="blank"><img src="https://img.shields.io/twitter/follow/lol.spades?logo=twitter&style=for-the-badge" alt="lol-spades" /></a> </p>
 
 - 💬 Ask me about **c# or python**
 
