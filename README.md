@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lol-spades" alt="lol-spades" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/silent127_0_0_1" target="blank"><img src="https://img.shields.io/twitter/follow/silent127_0_0_1?logo=twitter&style=for-the-badge" alt="silent127_0_0_1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/silent127_0_0_1" target="blank"><img src="https://img.shields.io/twitter/follow/silent127_0_0_1?logo=twitter&style=for-the-badge" alt="lol-spades" /></a> </p>
 
 - 💬 Ask me about **c# or python**
 
-- 📫 How to reach me **Email: lol.spades@aceofspades.one**
+- 📫 How to reach me **Email: lolspades@tuta.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/silent127_0_0_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silent127_0_0_1" height="30" width="40" /></a>
-<a href="https://instagram.com/_._spades_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._spades_._" height="30" width="40" /></a>
+<a href="https://twitter.com/lol_spades420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silent127_0_0_1" height="30" width="40" /></a>
+<a href="https://instagram.com/0x.a.o.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._spades_._" height="30" width="40" /></a>
 <a href="https://discord.gg/m7SQEWV8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m7SQEWV8" height="30" width="40" /></a>
 </p>
 
